@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek Prashar
-- 👀 I’m interested in Software Engineering Internship
+- 👀 I’m interested in Frontend Internship
 - 🌱 I’m currently learning MERN, Reactjs ,CSS tailwind
 - 💞️ I’m looking to collaborate on projects associated with MERN
 - 📫 How to reach me ...
