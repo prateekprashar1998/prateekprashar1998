@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek Prashar
-- 👀 I’m interested in Frontend/MERN Full Stack Developer 
+- 👀 I’m a Frontend/MERN Full Stack Developer 
 - 🌱 I’m have worked on MERN, Reactjs, CSS tailwind, Boostrap, AI chatbot, Deep Learning and Neural Networks.  
 - 💞️ I’m looking to collaborate on projects associated with MERN
 - 📫 How to reach me ...
