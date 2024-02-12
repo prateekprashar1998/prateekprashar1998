@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prateek Prashar
-- 👀 I’m a Frontend/MERN Full Stack Developer 
-- 🌱 I’m have worked on MERN, Reactjs, CSS tailwind, Boostrap, AI chatbot, Deep Learning and Neural Networks.  
-- 💞️ I’m looking to collaborate on projects associated with MERN
+- 👀 I’m a BackEnd/Dot net core Developer 
+- 🌱 I’m have worked on ASP.Net, Reactjs, CSS tailwind, Boostrap, AI chatbot, Deep Learning and Neural Networks.  
+- 💞️ I’m looking to collaborate on projects associated with Dot Net
 - 📫 How to reach me ...
      linkedin - https://www.linkedin.com/in/prateek-prashar20/
      instagram -https://www.instagram.com/prashar__prateek/
